@@ -1,0 +1,21 @@
+﻿# Build files
+*.exe
+*.out
+*.obj
+*.o
+*.ilk
+*.pdb
+# Visual Studio
+.vs/
+*.vcxproj.user
+*.VC.db
+*.VC.opendb
+# CMake (ако ползваш)
+CMakeFiles/
+CMakeCache.txt
+cmake-build-*/
+# Logs
+*.log
+# OS
+.DS_Store
+Thumbs.db
